@@ -1,0 +1,6 @@
+@MarketHunter.WebAPI_HostAddress = http://localhost:5094
+
+GET {{MarketHunter.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
